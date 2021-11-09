@@ -1,6 +1,6 @@
 - Why hello there! I’m NX721.
 - I'm intersted in Nintendo games, preferably Zelda.
-- I know a bit of Javascript.
+- I know a bit of JS.
 - Discord: NX721#0789
 
 <!---
